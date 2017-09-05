@@ -1,6 +1,6 @@
 def areaTriangle(base, height):
     '''
-    objective: To find the area of a Triangle
+    objective: To find the area of the Triangle
     input parameters:
     base of triangle
     height of triangle
